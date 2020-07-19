@@ -1,0 +1,60 @@
+﻿  playernikolastate.cpp
+D:\games\game1\Project1\playernikolastate.cpp(33,31): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(33,31): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(33,31): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(33,31): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(33,31): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(34,39): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(34,39): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(34,39): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(34,39): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(34,39): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(86,64): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(86,64): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(86,64): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(86,64): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(86,64): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(86,41): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(86,41): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(86,41): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(86,41): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(86,41): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(155,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(166,33): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(166,33): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(166,33): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(166,33): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(166,33): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(167,41): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(167,41): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(167,41): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(167,41): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(167,41): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:             T=unsigned int
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:         and
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(247,65): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:             T=unsigned int
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:         and
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(248,62): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:         with
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:             T=unsigned int
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:         ]
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:         and
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:         [
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:             T=float
+D:\games\game1\Project1\playernikolastate.cpp(249,58): warning C4244:         ]
+  Project1.vcxproj -> D:\games\game1\Debug\Project1.exe
